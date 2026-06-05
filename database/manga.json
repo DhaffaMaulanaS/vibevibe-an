@@ -1,0 +1,51 @@
+{
+  "manga_id": "manhwa-dspr-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Regresi Pembunuh Naga yang Tiada Tanding",
+  "status": "Ongoing",
+  "author": "Yusoo",
+  "artist": "N/A",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah mengorbankan segalanya untuk mengalahkan Raja Naga, pahlawan legendaris ini dikhianati oleh mereka yang seharusnya ia lindungi. Saat kematian menjemput, ia tiba-tiba terbangun kembali ke masa lalunya di akademi sebelum semua tragedi terjadi. Dengan ingatan dari kehidupan masa lalunya, ia bersumpah untuk mengubah takdir dan menjadi eksistensi yang tiada tanding.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/covers/manhwa-dspr-001.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Awal yang Baru",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-001/page-01.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-001/page-02.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-001/page-03.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-001/page-04.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-001/page-05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 1.5,
+      "chapter_title": "Mimpi Buruk Sang Pahlawan",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-01-5/page-01.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-01-5/page-02.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-01-5/page-03.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kembali ke Akademi",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-002/page-01.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-002/page-02.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-002/page-03.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets-storage/main/manhwa-dspr-001/ch-002/page-04.jpg"
+      ]
+    }
+  ]
+}
